@@ -88,8 +88,3 @@ This document contains test cases for the **Change Password** functionality. Use
 - **Steps**: Simulate a session timeout and attempt to submit the form.
 - **Expected Result**: The user should be redirected to the login page with a message like "Session expired. Please log in again."
 
-### 15. Cross-Browser and Device Testing
-- **Test Case ID**: TC015
-- **Description**: Verify the change password functionality on multiple browsers and devices.
-- **Steps**: Test the feature on Chrome, Firefox, Safari, and Edge on desktop, and on mobile devices.
-- **Expected Result**: The functionality should work consistently across all platforms.
